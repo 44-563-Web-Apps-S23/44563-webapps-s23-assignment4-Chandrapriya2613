@@ -1,0 +1,21 @@
+.speech{
+color: #000;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.direction{
+    color: black;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightcoral;
+}
+.direction:hover{
+    background-color: darkblue;
+    color: white;
+}
+.betty{
+     color: bisque;
+}
+.cotton{
+      color: aqua;
+}
