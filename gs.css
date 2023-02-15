@@ -14,8 +14,31 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: white;
 }
 .betty{
-     color: bisque;
+     color: darkcyan;
 }
 .cotton{
-      color: aqua;
+      color: darkorange;
+}
+table,tr,th,td{
+    border: 1px solid black;
+     border-collapse: collapse;
+     }
+     table{
+        margin: 30px;
+     }
+tr,th,td{
+    padding: 10px 20px 30px;
+}
+tr:nth-child(odd){
+    background-color: #3ff;
+}
+tr:nth-child(even){
+    background-color: #ef0;
+}
+th{
+    background-color: brown;
+    color: ghostwhite;
+}
+td{
+    text-align: center;
 }
