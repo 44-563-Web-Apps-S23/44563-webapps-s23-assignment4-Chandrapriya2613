@@ -14,7 +14,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: white;
 }
 .name{
-    
+
 }
 .betty{
      color: darkcyan;
@@ -22,6 +22,13 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 .cotton{
       color: darkorange;
 }
+
+
+
+
+
+
+
 .betty:hover{
     color: red;
     text-shadow: 2px 2px 4px #000000;
